@@ -17,8 +17,6 @@ questions.forEach(function (question) {
     })
 })
 
-
-
 // traversing the dom (OUTRO MÉTODO)
 
 // const btns = document.querySelectorAll(".question-btn")
